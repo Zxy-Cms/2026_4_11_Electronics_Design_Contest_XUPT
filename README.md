@@ -1,0 +1,2 @@
+# 2026_4_11_Electronics_Design_Contest_XUPT
+2026西安邮电大学电赛校赛（改编自2017电赛B题滚球控制系统）
