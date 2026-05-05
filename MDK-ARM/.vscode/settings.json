@@ -1,0 +1,55 @@
+// {
+//     "files.autoGuessEncoding": true,
+//     "files.associations": {
+//         "my_usb_device.h": "c",
+//         "Servo_device.h": "c",
+//         "bsp_pwm.h": "c"
+//     },
+//     "C_Cpp.default.browse.limitSymbolsToIncludedHeaders": false
+// }
+// settings.json
+{
+    // ========== IntelliSense核心设置 ==========
+       
+       // IntelliSense引擎：default（推荐）、disabled、Tag Parser
+       "C_Cpp.intelliSenseEngine": "default",
+       
+       // 自动补全：default（推荐）、disabled
+       "C_Cpp.autocomplete": "default",
+       
+       // 错误波浪线：enabled（推荐）、disabled、enabledIfIncludesResolve
+       "C_Cpp.errorSquiggles": "disabled",
+       
+       
+       // ========== 其他相关IntelliSense设置 ==========
+       
+       // 建议排序方式（按位置或字母）
+       // "C_Cpp.suggestSnippets": true,
+       
+       // 增强颜色显示
+       "C_Cpp.enhancedColorization": "enabled",
+       
+       // 代码格式化风格
+       // "C_Cpp.clang_format_style": "file",
+       
+       // 悬停提示
+       "C_Cpp.autoAddFileAssociations": true,
+   
+       "git.pullBeforePush": true,
+       "git.autofetch": true,
+       "files.associations": {
+        "my_usb_device.h": "c",
+        "Servo_device.h": "c",
+        "bsp_pwm.h": "c",
+        "vision_control.h": "c",
+        "uart_device.h": "c",
+        "bsp_uart.h": "c",
+        "vision_frame.h": "c",
+        "gyro_debug_servo.h": "c",
+        "plate_task_fsm.h": "c",
+        "vision_axis.h": "c",
+        "type_traits": "c",
+        "xtr1common": "c",
+        "xutility": "c"
+    }
+   }

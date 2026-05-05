@@ -1,0 +1,1 @@
+2026_4_11_electronics_design_contest_xupt\startup_stm32f407xx.o: startup_stm32f407xx.s

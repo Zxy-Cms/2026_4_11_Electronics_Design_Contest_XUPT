@@ -1,0 +1,10 @@
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Control/usb_servo_angle.c
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Control/usb_servo_angle.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Bsp/bsp_common.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\stdio.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\stdlib.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Devices/Servo_device.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Bsp/bsp_servo.h
+2026_4_11_electronics_design_contest_xupt\usb_servo_angle.o: ../User/Devices/my_usb_device.h

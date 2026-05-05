@@ -1,0 +1,14 @@
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Control/vision_control.c
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Control/vision_control.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Bsp/bsp_common.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\stdint.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Control/plate_task_fsm.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Control/vision_axis.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Bsp/bsp_servo.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Algorithm/pid.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Control/vision_frame.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: E:\STM32\Keil_V5\ARM\ARMCC\Bin\..\include\string.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Devices/control_tick_device.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Devices/serial_screen_device.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Devices/system_time_device.h
+2026_4_11_electronics_design_contest_xupt\vision_control.o: ../User/Devices/uart_device.h
